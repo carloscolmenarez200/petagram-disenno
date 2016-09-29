@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="str_bienvenido">Bienvenido toque para entrar</string>
+    <string name="str_btn_entrar">Entrar</string>
+    <string name="title_activity_main">Petagram</string>
+    <string name="title_activity_favoritos">Favoritos</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>

@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.developers.carlos.uppy.MainActivity">
+
+    <item
+        android:id="@+id/action_publica"
+        android:title="@string/menu_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_favorito"
+        android:icon="@drawable/star_hotel_48"
+        android:orderInCategory="1"
+        android:title="@string/menu_settings"
+        app:showAsAction="ifRoom" />
+
+</menu>
